@@ -15,7 +15,10 @@ This project replaces manual filing in clinics with a clean, easy-to-use dashboa
 - Fully digital system with modern UI for clinics
 
 ---
+## Screenshots
 
+![Dashboard](images/dashboard.png)
+![Add Patient Form](images/add_file.png)
 
 
 ## Installation
